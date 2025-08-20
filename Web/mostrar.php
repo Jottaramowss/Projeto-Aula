@@ -7,7 +7,7 @@ echo $cpf = $_POST['cpf'] ;
 echo $cnpj = $_POST['cnpj'] ;
 echo $estado = $_POST['estado'] ;
 echo $endereco = $_POST['endereco'] ;
-echo $numero = $_POST['numero'] ;
+echo $numero = $_POST['tel'] ;
 echo $complemento = $_POST['complemento'] ;
 echo $obs = $_POST['obs'] ;
 
