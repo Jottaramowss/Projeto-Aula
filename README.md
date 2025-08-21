@@ -1,2 +1,2 @@
 # Projeto-Aula
-Para Fins Educacionais
+Teste para fazer projetos dentro git.bash
